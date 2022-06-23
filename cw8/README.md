@@ -1,4 +1,3 @@
-# cw-8-ko-maddymmt
 Przygotuj nowy projekt aplikacji API i razem z EF i podejściem CodeFirst wygeneruj kilka migracji, która pozwolą nam stworzyć bazę danych przedstawioną na poniższym rysunku.  
 ![image](https://user-images.githubusercontent.com/35382676/169101298-1ae87d9d-907b-4b6c-b441-555646c73e2d.png)
 
