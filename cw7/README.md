@@ -1,5 +1,3 @@
-# cw-7-ko-maddymmt
-
 W niniejszym zadaniu skorzystamy z biblioteki EntityFramework Core. Poniżej przedstawiony jest diagram na którym będziemy pracować.  
 ![image](https://user-images.githubusercontent.com/35382676/167697816-76520842-a184-4130-a176-578b23bb224c.png)
 1. Stwórz aplikację typu REST Api.
